@@ -26,6 +26,7 @@ Specialization	Field of study in undergraduate degree.
 Work_Experience	Work experience before placements (Yes/No).
 Aptitude_Test_Score	Score in aptitude tests.
 Placement_Status	Target variable: Placed (1) or Not Placed (0).
+
 **Project Workflow**
 
 1. Data Import and Preprocessing
@@ -61,11 +62,13 @@ Compare the performance of all models using a bar chart for accuracy scores.
 Display the Confusion Matrix for the best-performing model.
 8. Final Model and Prediction
 Use the best-performing model to make predictions on new/unseen data.
+
 **Project Output**
 
 The best-performing model is identified based on evaluation metrics.
 Visualizations clearly showcase the performance of each algorithm and feature importance.
 Predictions can guide decisions related to placements or improvements in student performance.
+
 **Tech Stack**
 
 Languages: Python
@@ -73,6 +76,7 @@ Libraries:
 Data Manipulation: pandas, numpy
 Visualization: matplotlib, seaborn
 Machine Learning: scikit-learn
+
 **Usage Instructions**
 
 1.Clone the repository:
