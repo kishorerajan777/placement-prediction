@@ -1,8 +1,9 @@
-**Placement Prediction using Machine Learning**
+**Placement Prediction using 
+Machine Learning**
 
 **Project Overview**
 
-This project aims to predict whether a student will be placed based on their academic performance, demographic details, and extracurricular involvement. The objective is to use various machine learning algorithms to identify patterns in the data and determine the model with the highest accuracy.
+Placement Prediction Project aims to predict whether a student will be placed based on their academic performance, demographic details, and extracurricular involvement. The objective is to use various machine learning algorithms to identify patterns in the data and determine the model with the highest accuracy.
 
 **Dataset Details**
 
