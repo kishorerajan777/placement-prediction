@@ -84,14 +84,17 @@ bash
 Copy
 Edit
 git clone https://github.com/your_username/placement-prediction.git
+
 2.Install the required libraries:
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3.Run the Jupyter Notebook:
 bash
 Copy
 Edit
 jupyter notebook placement-prediction.ipynb
+
 4.Follow the steps in the notebook to reproduce the results.
